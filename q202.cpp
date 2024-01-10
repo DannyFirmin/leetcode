@@ -7,22 +7,14 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        if (n == 1)
-        {
-            return true;
-        }
-        std::vector<int> numbers = intToVector(n);
+        std::unordered_set<int> seen;
 
-        while (numbers.size() >= 1)
-        {
-            int newIntNumber = getSum(numbers);
-            if (newIntNumber == 1)
-            {
-                return true;
-            }
-            numbers = intToVector(newIntNumber);
+        while (n != 1 && seen.find(n) == seen.end()) {
+            seen.insert(n);
+            n = getSum(intToVector(n));
         }
-        return false;
+
+        return n == 1;
     }
 
 private:
@@ -53,8 +45,8 @@ int main() {
     Solution solution;
 
     // Example 1
-//    int n1 = 19;
-//    std::cout << "Example 1: " << (solution.isHappy(n1) ? "true" : "false") << std::endl;
+    int n1 = 19;
+    std::cout << "Example 1: " << (solution.isHappy(n1) ? "true" : "false") << std::endl;
 
     // Example 2
     int n2 = 2;
