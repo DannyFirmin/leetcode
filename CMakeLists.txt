@@ -15,5 +15,6 @@ add_executable(LeetCode
 #        q20.cpp
 #        q141.cpp
 #        q104.cpp
-        q100.cpp
+#        q100.cpp
+        q226.cpp
 )
