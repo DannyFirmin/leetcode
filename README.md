@@ -1,6 +1,6 @@
 # LeetCode Practice
 
-I will be solving one LeetCode questions every day for fun 😊
+I'm solving LeetCode questions every day for fun 😊
 
 ## Log
 | Day (MM/DD/YY) | LeetCode Problem No. | Title                                              | Category            | Difficulty | Language | Time complexity                                                          | Space complexity | Notes                                                                    | Time spent (min) | My solution result  | File                         |
