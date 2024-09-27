@@ -4,5 +4,5 @@ project(LeetCode)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(LeetCode
-        q110.cpp
+        cpp/q110.cpp
 )
