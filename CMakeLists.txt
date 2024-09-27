@@ -5,5 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(LeetCode
         q110.cpp
-        q131.cpp
 )
