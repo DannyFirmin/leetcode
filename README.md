@@ -7,3 +7,4 @@ I'm solving LeetCode questions every day for self improvement 😊
 |----------------|----------------------|--------------------|------------------|------------|----------|-----------------|------------------|-------|------------------|--------------------|--------------------------------|
 | 02/13/25       | 217                  | Contains Duplicate | Arrays & Hashing | Easy       | Java     | O(n)            | O(n)             |       | 10               | Accepted           | [q217.cpp](java/src/q217.java) |
 | 02/14/25       | 242                  | Valid Anagram      | Arrays & Hashing | Easy       | Java     | O(n)            | O(n)             |       | 20               | Accepted           | [q242.cpp](java/src/q242.java) |
+| 02/15/25       | 1                    | Two Sum            | Arrays & Hashing | Easy       | Java     | O(n)            | O(n)             |       | 30               | Accepted           | [qq.cpp](java/src/q1.java)     |
