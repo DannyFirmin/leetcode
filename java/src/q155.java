@@ -1,7 +1,9 @@
+import java.util.Stack;
+
 class q155 {
     private Stack<Integer> stack;
     private Stack<Integer> minStack;
-    public MinStack() {
+    public q155() {
         stack = new Stack<>();
         minStack = new Stack<>();
     }
