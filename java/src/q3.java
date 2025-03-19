@@ -1,3 +1,6 @@
+import java.util.HashSet;
+import java.util.Set;
+
 class q3 {
     public int lengthOfLongestSubstring(String s) {
         Set<Character> seen = new HashSet<>();
