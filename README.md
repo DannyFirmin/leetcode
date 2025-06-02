@@ -36,3 +36,5 @@ LeetCode practice in Python🐍
 | 05/30/25       | 684                  | Redundant Connection                                  | Graphs                | Medium     | Python   | O(V + E)        | O(n)             |       |                  |                    | [q684.py](python/q684.py)   |
 | 05/31/25       | 127                  | Word Ladder                                           | Graphs                | Hard       | Python   | O(m^2 * n)      | O(m^2 * n)       |       |                  |                    | [q127.py](python/q127.py)   |
 | 05/31/25       | 743                  | Network Delay Time                                    | Graphs                | Medium     | Python   | O(ElogV)        | O(V + E)         |       |                  |                    | [q743.py](python/q743.py)   |
+| 06/01/25       | 1584                 | Min Cost to Connect All Points                        | Graphs                | Medium     | Python   | O(n^2 * logn)   | O(n^2)           |       |                  |                    | [q1584.py](python/q1584.py) |
+
