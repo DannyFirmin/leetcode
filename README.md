@@ -39,4 +39,5 @@ LeetCode practice in Python🐍
 | 06/01/25       | 1584                 | Min Cost to Connect All Points                        | Advanced Graphs       | Medium     | Python   | O(n^2 * logn)   | O(n^2)           |       |                  |                    | [q1584.py](python/q1584.py) |
 | 06/02/25       | 778                  | Swim in Rising Water                                  | Advanced Graphs       | Hard       | Python   | O(n^2 * logn)   | O(n^2)           |       |                  |                    | [q778.py](python/q778.py)   |
 | 06/02/25       | 245                  | Alien Dictionary                                      | Advanced Graphs       | Hard       | Python   | O(N + V + E)    | O(V + E)         |       |                  |                    | [q245.py](python/q245.py)   |
+| 06/04/25       | 787                  | Cheapest Flights Within K Stops                       | Advanced Graphs       | Medium     | Python   | O(n + m * k)    | O(n)             |       |                  |                    | [q787.py](python/q787.py)   |
 
