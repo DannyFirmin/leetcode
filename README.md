@@ -41,4 +41,5 @@ LeetCode practice in Python🐍
 | 06/02/25       | 245                  | Alien Dictionary                                      | Advanced Graphs         | Hard       | Python   | O(N + V + E)    | O(V + E)         |       |                  |                    | [q245.py](python/q245.py)   |
 | 06/04/25       | 787                  | Cheapest Flights Within K Stops                       | Advanced Graphs         | Medium     | Python   | O(n + m * k)    | O(n)             |       |                  |                    | [q787.py](python/q787.py)   |
 | 06/07/25       | 5                    | Longest Palindromic Substring                         | 1-D Dynamic Programming | Medium     | Python   | O(n^2)          | O(1)             |       |                  |                    | [q5.py](python/q5.py)       |
+| 06/08/25       | 647                  | Palindromic Substrings                                | 1-D Dynamic Programming | Medium     | Python   | O(n^2)          | O(1)             |       |                  |                    | [q647.py](python/q647.py)   |
 
