@@ -45,4 +45,5 @@ LeetCode practice in Python🐍
 | 06/08/25       | 91                   | Decode Ways                                           | 1-D Dynamic Programming | Medium     | Python   | O(n)            | O(n)             |       |                  |                    | [q91.py](python/q91.py)     |
 | 06/09/25       | 152                  | Maximum Product Subarray                              | 1-D Dynamic Programming | Medium     | Python   | O(n)            | O(1)             |       |                  |                    | [q152.py](python/q152.py)   |
 | 06/20/25       | 97                   | Interleaving String                                   | 2-D Dynamic Programming | Medium     | Python   | O(m * n)        | O(m * n)         |       |                  |                    | [q97.py](python/q97.py)     |
+| 06/20/25       | 329                  | Longest Increasing Path in a Matrix                   | 2-D Dynamic Programming | Medium     | Python   | O(m * n)        | O(m * n)         |       |                  |                    | [q329.py](python/q329.py)   |
 
