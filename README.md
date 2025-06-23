@@ -47,4 +47,5 @@ LeetCode practice in Python🐍
 | 06/20/25       | 97                   | Interleaving String                                   | 2-D Dynamic Programming | Medium     | Python   | O(m * n)        | O(m * n)         |       |                  |                    | [q97.py](python/q97.py)     |
 | 06/20/25       | 329                  | Longest Increasing Path in a Matrix                   | 2-D Dynamic Programming | Hard       | Python   | O(m * n)        | O(m * n)         |       |                  |                    | [q329.py](python/q329.py)   |
 | 06/21/25       | 72                   | Edit Distance                                         | 2-D Dynamic Programming | Medium     | Python   | O(m * n)        | O(m * n)         |       |                  |                    | [q72.py](python/q72.py)     |
+| 06/22/25       | 312                  | Burst Balloons                                        | 2-D Dynamic Programming | Hard       | Python   | O(n^3)          | O(n^2)           |       |                  |                    | [q312.py](python/q312.py)   |
 
