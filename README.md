@@ -51,4 +51,5 @@ LeetCode practice in Python🐍
 | 06/22/25       | 10                   | Regular Expression Matching                           | 2-D Dynamic Programming | Hard       | Python   | O(m * n)        | O(m * n)         |       |                  |                    | [q10.py](python/q10.py)     |
 | 06/24/25       | 136                  | Single Number                                         | Bit Manipulation        | Easy       | Python   | O(n)            | O(1)             |       |                  |                    | [q136.py](python/q136.py)   |
 | 06/24/25       | 191                  | Number of 1 Bits                                      | Bit Manipulation        | Easy       | Python   | O(1)            | O(1)             |       |                  |                    | [q191.py](python/q191.py)   |
+| 06/25/25       | 338                  | Counting Bits                                         | Bit Manipulation        | Easy       | Python   | O(n)            | O(n)             |       |                  |                    | [q338.py](python/q338.py)   |
 
