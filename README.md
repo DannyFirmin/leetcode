@@ -56,4 +56,5 @@ LeetCode practice in Python🐍
 | 07/14/25       | 268                  | Missing Number                                        | Bit Manipulation        | Easy       | Python   | O(nlogn)        | O(1)             |       |                  |                    | [q268.py](python/q268.py)   |
 | 07/16/25       | 7                    | Reverse Integer                                       | Bit Manipulation        | Medium     | Python   | O(1)            | O(1)             |       |                  |                    | [q7.py](python/q7.py)       |
 | 07/17/25       | 48                   | Rotate Image                                          | Math & Geometry         | Medium     | Python   | O(n^2)          | O(1)             |       |                  |                    | [q48.py](python/q48.py)     |
+| 07/17/25       | 54                   | Spiral Matrix                                         | Math & Geometry         | Medium     | Python   | O(m * n)        | O(1)             |       |                  |                    | [q54.py](python/q54.py)     |
 
