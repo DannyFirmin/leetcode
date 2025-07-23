@@ -59,4 +59,5 @@ LeetCode practice in Python🐍
 | 07/17/25       | 54                   | Spiral Matrix                                         | Math & Geometry         | Medium     | Python   | O(m * n)        | O(1)             |       |                  |                    | [q54.py](python/q54.py)     |
 | 07/20/25       | 73                   | Set Matrix Zeroes                                     | Math & Geometry         | Medium     | Python   | O(m * n)        | O(1)             |       |                  |                    | [q73.py](python/q73.py)     |
 | 07/20/25       | 202                  | Happy Number                                          | Math & Geometry         | Medium     | Python   | O(logn)         | O(logn)          |       |                  |                    | [q202.py](python/q202.py)   |
+| 07/23/25       | 66                   | Plus One                                              | Math & Geometry         | Easy       | Python   | O(n)            | O(n)             |       |                  |                    | [q66.py](python/q66.py)     |
 
