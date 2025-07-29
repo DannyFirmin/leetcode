@@ -61,4 +61,5 @@ LeetCode practice in Python🐍
 | 07/20/25       | 202                  | Happy Number                                          | Math & Geometry         | Medium     | Python   | O(logn)         | O(logn)          |       |                  |                    | [q202.py](python/q202.py)   |
 | 07/23/25       | 66                   | Plus One                                              | Math & Geometry         | Easy       | Python   | O(n)            | O(n)             |       |                  |                    | [q66.py](python/q66.py)     |
 | 07/24/25       | 50                   | Pow(x, n)                                             | Math & Geometry         | Medium     | Python   | O(logn)         | O(logn)          |       |                  |                    | [q50.py](python/q50.py)     |
+| 07/28/25       | 43                   | Multiply Strings                                      | Math & Geometry         | Medium     | Python   | O(m * n)        | O(m + n)         |       |                  |                    | [q43.py](python/q43.py)     |
 
