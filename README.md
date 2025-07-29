@@ -62,4 +62,5 @@ LeetCode practice in Python🐍
 | 07/23/25       | 66                   | Plus One                                              | Math & Geometry         | Easy       | Python   | O(n)            | O(n)             |       |                  |                    | [q66.py](python/q66.py)     |
 | 07/24/25       | 50                   | Pow(x, n)                                             | Math & Geometry         | Medium     | Python   | O(logn)         | O(logn)          |       |                  |                    | [q50.py](python/q50.py)     |
 | 07/28/25       | 43                   | Multiply Strings                                      | Math & Geometry         | Medium     | Python   | O(m * n)        | O(m + n)         |       |                  |                    | [q43.py](python/q43.py)     |
+| 07/28/25       | 2013                 | Detect Squares                                        | Math & Geometry         | Medium     | Python   | O(n)            | O(1)             |       |                  |                    | [q2013.py](python/q2013.py) |
 
